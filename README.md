@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently studying at SENAI Londrina
-- 🌱 I’m currently learning Web Dev.
+- 🌱 I’m currently learning Web Dev. (Front)
 - 👯 I’m looking to collaborate on any projects, so contact me!
 - 📫 How to reach me: m.eleoteriovieira@gmail.com
 - 😄 Pronouns: He/Him
