@@ -17,5 +17,6 @@
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 <br>
-<a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <br>
+<a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<br>
 - み
