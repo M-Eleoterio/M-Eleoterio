@@ -10,4 +10,6 @@
 - 📫 How to reach me: m.eleoteriovieira@gmail.com
 - 😄 Pronouns: He/Him
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+
 - み
