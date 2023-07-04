@@ -4,11 +4,16 @@
 **M-Eleoterio/M-Eleoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently studying at SENAI Londrina
-- 🌱 I’m currently learning Web Dev.
+- 🔭 System Developer Technician by SENAI.
+- 🌱 I’m currently learning Web Dev. and Cyber Security.
 - 👯 I’m looking to collaborate on any projects, so contact me!
 - 📫 How to reach me: m.eleoteriovieira@gmail.com
 - 😄 Pronouns: He/Him
+
+<div>
+  <a href="https://github.com/kiltzx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Eleoterio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block">
 <br>
