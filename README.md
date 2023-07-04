@@ -29,4 +29,5 @@
 <a href="mailto:m.eleoteriovieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 <br><br>
 
-- 👽
+![miles](https://github.com/M-Eleoterio/M-Eleoterio/assets/81435581/0bd7e1ee-9976-4d62-993b-ed6f357f6e2c)
+
