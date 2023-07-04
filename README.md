@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 
 <div>
-  <a href="https://github.com/kiltzx">
+  <a href="https://github.com/m-eleoterio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Eleoterio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
