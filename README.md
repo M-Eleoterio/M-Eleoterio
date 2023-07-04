@@ -20,4 +20,5 @@
 <a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href="mailto:m.eleoteriovieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 <br><br>
+<script src="https://tryhackme.com/badge/1910443"></script>
 - 👽
