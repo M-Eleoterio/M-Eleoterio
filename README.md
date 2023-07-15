@@ -7,7 +7,7 @@
 - 🔭 System Developer Technician by SENAI.
 - 🌱 I’m currently learning Web Dev. and Cyber Security.
 - 👯 I’m looking to collaborate on any projects, so contact me!
-- 📫 How to reach me: m.eleoteriovieira@gmail.com
+- 📫 How to reach me: m.eleoteriovieira@gmail.com / (43) 99824-0220
 - 😄 Pronouns: He/Him
 
 <div>
@@ -23,7 +23,7 @@
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
-<a href = "https://tryhackme.com/p/M.Eleoterio"><img src="https://tryhackme-badges.s3.amazonaws.com/M.Eleoterio.png" alt="TryHackMe"></a>
+
 <br><br>
 <a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a href="mailto:m.eleoteriovieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
