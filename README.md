@@ -6,7 +6,6 @@
 -->
 - 🧑 I'm Eleotério, or just Leo!
 - 🔭 System Developer by SENAI.
-- 🌱 I’m currently learning Web Dev.
 - 👯 I’m looking to collaborate on any projects, so contact me!
 - 📫 How to reach me: m.eleoteriovieira@gmail.com / (43) 99824-0220
 - 😄 Pronouns: He/Him
