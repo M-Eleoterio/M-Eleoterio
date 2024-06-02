@@ -4,8 +4,9 @@
 -->
 - 🧑 I'm Eleotério, or just Leo!
 - 🔭 System Developer by SENAI.
+- 👩‍💻 #17 - Web Technologies competitor (state) at World Skills
 - 👯 I’m looking to collaborate on any projects, so contact me!
-- 📫 How to reach me: m.eleoteriovieira@gmail.com
+- 📫 How to reach me: <a href="mailto:m.eleoteriovieira@gmail.com"> m.eleoteriovieira@gmail.com </a>
 - 😄 Pronouns: He/Him
 
 <hr>
