@@ -5,7 +5,7 @@
 - 🧑 I'm Eleotério, or just Leo!
 - 🔭 System Developer by SENAI.
 - 👯 I’m looking to collaborate on any projects, so contact me!
-- 📫 How to reach me: m.eleoteriovieira@gmail.com / (43) 99824-0220
+- 📫 How to reach me: m.eleoteriovieira@gmail.com
 - 😄 Pronouns: He/Him
 
 <hr>
