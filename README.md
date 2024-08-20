@@ -6,7 +6,7 @@
   
 <table>
   <td style="vertical-align:middle">
-    <img src="./aboutm.jpg" width="100px">
+    <img src="./about.jpg" width="100px">
   </td>
   <td style="font-family: monospace; font-size: 80px;" width="500px">
     <pre>▸ About Eleotério</pre>
@@ -43,12 +43,13 @@
   </td>
   <tr></tr>
   <td style="vertical-align:middle">
-    <img src="./.jpg" width="100px">
+    <img src="./gitstatus.jpg" width="100px">
   </td>
   <td style="display:flex; align-items: center">
     <div>
       <a href="https://github.com/m-eleoterio">
       <img src="https://github-readme-stats.vercel.app/api?username=m-eleoterio&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-eleoterio&theme=dark&hide_border=true" />
     </div>
   </td>
 </table>
