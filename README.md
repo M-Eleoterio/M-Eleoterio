@@ -59,7 +59,7 @@
   </td>
 </table>
         
-<hr>
+<img src="./divider.png" width="500px">
 <div style="display: inline_block">
 <br>
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
