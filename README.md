@@ -6,7 +6,7 @@
   
 <table>
   <td style="vertical-align:middle">
-    <img src="./aboutme.jpg" width="100px">
+    <img src="./aboutm.jpg" width="100px">
   </td>
   <td style="font-family: monospace; font-size: 80px;" width="500px">
     <pre>▸ About Eleotério</pre>
@@ -43,7 +43,7 @@
   </td>
   <tr></tr>
   <td style="vertical-align:middle">
-    <img src="./aboutme.jpg" width="100px">
+    <img src="./.jpg" width="100px">
   </td>
   <td style="display:flex; align-items: center">
     <div>
