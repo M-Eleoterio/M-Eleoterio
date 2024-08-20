@@ -2,25 +2,30 @@
 <!--
 **M-Eleoterio/M-Eleoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<center>
+<div align="center">
   
 <table>
   <td style="vertical-align:middle">
     <img src="./about.jpg" width="100px">
   </td>
-  <td style="font-family: monospace; font-size: 80px;" width="500px">
+  <td style="font-family: monospace; font-size: 80px;" width="500px" align="left">
     <pre>▸ About Eleotério</pre>
   <pre>
       ▸ Web developer
+    <br>
       ▸ <strong>BACKEND</strong> (main stack)
-        ⌞ PHP
-          ⌞ Laravel
-        ⌞ JS
-          ⌞ NodeJS
-        ⌞ Python
+        ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code> PHP
+          ⌞ <code><img width="15" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code> Laravel 
+        ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> JavaScript 
+          ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code> NodeJS
+        ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code> Python 
+    <br>
       ▸ <strong>FRONTEND</strong>
-        ⌞ JS
-          ⌞ ReactJS
+        ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> JavaScript
+          ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code> ReactJS 
+        ⌞ <code><img width="15" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code> PHP
+          ⌞ <code><img width="15" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code> Laravel
+    <br>
       ▸ System Dev by SENAI
       ▸ World Skills competitor
         ⌞ Stage: State
@@ -28,10 +33,10 @@
   </pre>
   </td>
   <tr></tr>
-  <td style="vertical-align:middle">
+  <td style="vertical-align:middle" align="left">
     <img src="./contact.jpg" width="100px">
   </td>
-  <td>
+  <td align="left">
     
   <pre>▸ Contact</pre>
   <pre>
@@ -67,8 +72,8 @@
 </div>
 
 <br><br>
-<a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-<a href="mailto:m.eleoteriovieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+<a href="https://www.linkedin.com/in/miguel-eleotério-vieira-206112250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:m.eleoteriovieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <br><br>
 
-</center>
+</div>
