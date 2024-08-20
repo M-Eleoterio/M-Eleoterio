@@ -2,21 +2,57 @@
 <!--
 **M-Eleoterio/M-Eleoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🧑 I'm Eleotério, or just Leo!
-- 🔭 System Developer by SENAI.
-- 👩‍💻 #17 - Web Technologies competitor (state) at World Skills
-- 👯 I’m looking to collaborate on any projects, so contact me!
-- 📫 How to reach me: <a href="mailto:m.eleoteriovieira@gmail.com"> m.eleoteriovieira@gmail.com </a>
-- 😄 Pronouns: He/Him
-
-<hr>
-<div>
-  <a href="https://github.com/m-eleoterio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-Eleoterio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Eleoterio&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/M.Eleoterio.png" alt="TryHackMe">
+<center>
+  
+<table>
+  <td style="vertical-align:middle">
+    <img src="./aboutme.jpg" width="100px">
+  </td>
+  <td style="font-family: monospace; font-size: 80px;" width="500px">
+    <pre>▸ About Eleotério</pre>
+  <pre>
+      ▸ Web developer
+      ▸ <strong>BACKEND</strong> (main stack)
+        ⌞ PHP
+          ⌞ Laravel
+        ⌞ JS
+          ⌞ NodeJS
+        ⌞ Python
+      ▸ <strong>FRONTEND</strong>
+        ⌞ JS
+          ⌞ ReactJS
+      ▸ System Dev by SENAI
+      ▸ World Skills competitor
+        ⌞ Stage: State
+        ⌞ Category: #17 - Web Technologies
+  </pre>
+  </td>
+  <tr></tr>
+  <td style="vertical-align:middle">
+    <img src="./contact.jpg" width="100px">
+  </td>
+  <td>
+    
+  <pre>▸ Contact</pre>
+  <pre>
+    ▸ <a href="mailto:m.eleoteriovieira@gmail.com" style="color: gray">m.eleoteriovieira@gmail.com</a>
+    ▸ <a href="linkedin.com/in/miguel-eleotério-vieira-206112250">LinkedIn</a>
+    ▸ he/him
+    ▸ brazilian pt + english
+  </pre>
+  </td>
+  <tr></tr>
+  <td style="vertical-align:middle">
+    <img src="./aboutme.jpg" width="100px">
+  </td>
+  <td style="display:flex; align-items: center">
+    <div>
+      <a href="https://github.com/m-eleoterio">
+      <img src="https://github-readme-stats.vercel.app/api?username=m-eleoterio&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    </div>
+  </td>
+</table>
+        
 <hr>
 <div style="display: inline_block">
 <br>
@@ -34,3 +70,4 @@
 <a href="mailto:m.eleoteriovieira@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 <br><br>
 
+</center>
