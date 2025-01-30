@@ -32,7 +32,7 @@
     <br>
       ▸ System Dev by SENAI
       ▸ World Skills competitor
-        ⌞ Stage: State
+        ⌞ Stage: National
         ⌞ Category: #17 - Web Technologies
   </pre>
   </td>
