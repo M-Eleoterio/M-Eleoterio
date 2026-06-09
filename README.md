@@ -4,10 +4,6 @@
   Full Stack Developer • TypeScript • NestJS • Next.js
 </p>
 
-<p align="center">
-  Building LMS, Financial Systems, Ticketing Platforms and AI-powered Applications
-</p>
-
 <br>
 
 <p align="center">
